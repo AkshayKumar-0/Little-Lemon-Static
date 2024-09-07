@@ -143,15 +143,6 @@ footer p {
   text-align: right;
 }
 
-footer p {
-  border-top: #333333;
-  border-width: 0.1rem;
-  border-bottom: none;
-  border-left: none;
-  border-right: none;
-  text-align: right;
-}
-
 footer div {
   flex: 1;
 }
