@@ -145,12 +145,10 @@ footer p {
 
 footer p {
   border-top: #333333;
-  border-style: solid;
   border-width: 0.1rem;
   border-bottom: none;
   border-left: none;
   border-right: none;
-  text-align: right;
   text-align: right;
 }
 
